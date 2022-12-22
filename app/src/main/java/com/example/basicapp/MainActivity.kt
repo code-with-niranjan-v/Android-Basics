@@ -29,4 +29,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,name,Toast.LENGTH_LONG).show()
 
     }
-}
+fun main() {
+    var name="vigneswaran"
+    print(name)
+    }
