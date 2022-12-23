@@ -30,4 +30,10 @@ class MainActivity : AppCompatActivity() {
      
 
     }
+    
+    fun Displaydetails(){
+        
+         Toast.makeText(this,"Rithik",Toast.LENGTH_LONG).show()
+        
+    }
 }
